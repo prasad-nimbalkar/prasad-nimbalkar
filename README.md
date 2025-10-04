@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Prasad Nimbalkar
 
-💡 A Python and  ETL developer passionate about building clean, scalable, and automated systems.  
+💡 A **Python and ETL Developer** passionate about building clean, scalable, and automated systems.  
 🔁 I specialize in **ETL pipelines**, **Data engineering**, and **API development** using tools like **FastAPI**, **PySpark**, and **SQLite**.
 
 ---
@@ -9,6 +9,7 @@
 
 - 🐍 **Python** — my primary language for building robust solutions
 - ⚙️ **ETL & Data Pipelines** — automate, transform, and scale
+- 🔥 **PySpark** — large-scale data processing with distributed systems  
 - ⚡ **FastAPI** — creating high-performance APIs with modern Python
 - ☁️ **AWS**, **GCP** — working with cloud services for data and automation 
 - 🧪 **Testing & Clean Code** — writing maintainable and well-tested code
