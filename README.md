@@ -10,6 +10,7 @@
 - 🐍 **Python** — my primary language for building robust solutions
 - ⚙️ **ETL & Data Pipelines** — automate, transform, and scale
 - ⚡ **FastAPI** — creating high-performance APIs with modern Python
+- ☁️ **AWS**, **GCP** — working with cloud services for data and automation 
 - 🧪 **Testing & Clean Code** — writing maintainable and well-tested code
 - 🌐 **Automation & Scripting** — reducing manual work with smart code
 
